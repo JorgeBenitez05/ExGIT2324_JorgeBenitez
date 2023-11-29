@@ -14,5 +14,5 @@ Si quieres contribuir al desarrollo de la web,puedes clonar el repositorio con e
 <br>
 
 ```
-git clone https://github.com/EnriquePicasso/ExGIT2324_Enrique.git
+git clone https://github.com/JorgeBenitez05/ExGIT2324_JorgeBenitez.git
 ```
