@@ -3,7 +3,11 @@ html{
     margin:0px;  
    
 }
-
+.foto{
+    background-image:url(../images/imagen.jpg);  
+    background-size: cover;
+    height: 100vh;
+}
 body{
     background-color: #fdfdfd;
     height: 100%;
